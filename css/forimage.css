@@ -2,12 +2,15 @@
   align-items: center;
   margin: fill;
   border: none;
+
+  margin: auto;
 }
 
 .image{
   align-items: center;
   max-width: 100%;
   height: auto;
+  background-color: #5a8c94;
 
   border: none;
 }
