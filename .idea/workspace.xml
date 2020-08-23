@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="810ea263-319c-429f-b8d2-b05feac5f429" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/forimage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/200821_house_party_end.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/200821_house_party_movie.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/200821_house_party_start.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/forimage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/forimage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -74,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598180300493</updated>
-      <workItem from="1598180304449" duration="2381000" />
+      <workItem from="1598180304449" duration="3428000" />
     </task>
     <servers />
   </component>
@@ -91,5 +89,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="970" y="500" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598185844377">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="970" y="500" key="#com.intellij.fileTypes.FileTypeChooser/2560.0.2560.1413/0.0.2560.1400@0.0.2560.1400" timestamp="1598185844377" />
   </component>
 </project>

@@ -1,16 +1,13 @@
+.image-container{
+  align-items: center;
+  margin: fill;
+  border: none;
+}
+
 .image{
+  align-items: center;
   max-width: 100%;
   height: auto;
-}
 
-#img-start{
-  position: absolute;
-  opacity: 0%;
-  z-index: 6;
-}
-
-#image-end{
-  position: absolute;
-  z-index: 5;
-  opacity: 100%;
+  border: none;
 }
