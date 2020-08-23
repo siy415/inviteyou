@@ -9,8 +9,11 @@
 .image{
   align-items: center;
   max-width: 100%;
+  width: 101%;
   height: auto;
   background-color: #5a8c94;
 
+  top: +2px;
   border: none;
+  overflow: hidden;
 }
