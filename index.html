@@ -18,14 +18,18 @@
 
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/forimage.css">
 
   <meta name="theme-color" content="#fafafa">
 </head>
 
 <body>
-
-  <!-- Add your site or application content here -->
-  <p>Hello world! This is HTML5 Boilerplate.</p>
+  <div class="image-container">
+    <!-- <img id="img-start" class="image" src="img/200821_house_party_start.png"> -->
+    <video muted onclick="this.play()" poster="img/200821_house_party_start.png" class="image">
+      <source src="img/200821_house_party_movie.mp4" type="video/mp4">
+    </video>
+  </div>
   <script src="js/vendor/modernizr-3.11.2.min.js"></script>
   <script src="js/plugins.js"></script>
   <script src="js/main.js"></script>
