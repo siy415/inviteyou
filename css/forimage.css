@@ -7,9 +7,9 @@
 }
 
 .image{
-  position: absolute;
   align-items: center;
   max-width: 100%;
+  width: 100%;
   height: auto;
   background-color: #000000;
 
