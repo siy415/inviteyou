@@ -1,3 +1,7 @@
+$(document).ready(function(){
+  initScale();
+})
+
 function initScale()   {
 
    var ress = navigator.userAgent;
@@ -11,22 +15,18 @@ function initScale()   {
         }
     } else {
         var dh = window.innerHeight;
-        var dw = window.innerWidth;
-        var cw = parseInt( $("#image-container").css('width') );
-        var ch = parseInt( $("#image-container").css('height') );
-        var per = dw/cw;
-        var per2 =dh/ch;
+        var ch = parseInt( $(".invitation-movie").css('height') );
+        var cch = parseInt($(".thumbnail-image").css('height'));
 
-        if(per > per2 ){
-            per = per2;
+        var margins = (dh - ch - cch) / 2;
+
+        if (margins < 0){
+          margins = 0;
         }
-        var gapH = ( dh - (ch*per) )/2;
-        var gapW = ( dw - (cw*per) )/2
      }
 
-     $("#contentsArea").css('transform', 'scale('+per+','+per+')');
-     $('body').css('margin-top', gapH );
-     $('body').css('margin-left', gapW );
+     $('.thumbnail-image').css('margin-top', margins );
+     $('.thumbnail-image').css('margin-bottom', margins );
 }
 
 window.onresize = function(){

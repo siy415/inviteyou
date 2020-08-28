@@ -15,10 +15,12 @@ html {
   color: #222;
   font-size: 1em;
   line-height: 1.4;
+  height: 100%;
 }
 
 body{
   background-color: #75ab7f;
+  height: 100%;
 }
 
 /*
