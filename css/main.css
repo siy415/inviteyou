@@ -24,24 +24,24 @@ body{
 }
 
 @font-face {
-  src:url("font/210 nemo 040.ttf");
-  font-family: "210 네모진 040";
+  src:url("../font/210_nemo_040.ttf");
+  font-family: "210_nemo_040";
 }
 
 @font-face {
-  src:url("font/210 nemo 030.ttf");
-  font-family: "210 네모진 030";
+  src:url("../font/210_nemo_030.ttf");
+  font-family: "210_네모진_030";
 }
 
 .content-title{
-  font-family: "210 네모진 040";
+  font-family: "210_nemo_040";
   font-size: 2.5rem;
   color: #F78c80;
   line-height: 10px;
 }
 
 .contents{
-  font-family: "210 네모진 030";
+  font-family: "210_네모진_030";
   font-size: 1.5rem;
   color: #ffefa3;
 }
