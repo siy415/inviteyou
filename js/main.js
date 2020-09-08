@@ -42,7 +42,7 @@ function initScale()   {
      $('.notice-container').css('height', dh);
      $('.notice-container').css('margin-left', 30);
      $('.notice-container').css('margin-right', 30);
-     $('.content-title').css('padding-top', 50);
+     $('.content-title').css('padding-top', dh/15);
 }
 
 window.onresize = function(){
