@@ -9,7 +9,7 @@ $(document).ready(function(){
       }, 700);
       isScrolled = true;
     }
-  })
+  }, 1)
 })
 
 function initScale()   {
@@ -40,7 +40,7 @@ function initScale()   {
      $('.notice-container').css('height', dh);
      $('.notice-container').css('margin-left', 30);
      $('.notice-container').css('margin-right', 30);
-     $('.content-title').css('padding-top', 20);
+     $('.content-title').css('padding-top', 100);
 }
 
 window.onresize = function(){

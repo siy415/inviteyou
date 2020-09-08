@@ -20,11 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="810ea263-319c-429f-b8d2-b05feac5f429" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/map.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/forimage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/forimage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/210 네모진 010.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/font/210 nemo 010.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/210 네모진 020.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/font/210 nemo 020.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/210 네모진 030.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/font/210 nemo 030.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/210 네모진 040.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/font/210 nemo 040.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/210 네모진 050.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/font/210 nemo 050.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +85,7 @@
       <workItem from="1598891565082" duration="557000" />
       <workItem from="1598960811441" duration="44000" />
       <workItem from="1599490893303" duration="746000" />
-      <workItem from="1599575311594" duration="6268000" />
+      <workItem from="1599575311594" duration="6662000" />
     </task>
     <servers />
   </component>
@@ -103,9 +105,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="970" y="500" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598185844377">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="4810" y="493" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599583226697">
+      <screen x="3840" y="-7" width="2560" height="1400" />
     </state>
+    <state x="4810" y="493" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/3840.-7.2560.1400@3840.-7.2560.1400" timestamp="1599583226697" />
     <state x="970" y="500" key="#com.intellij.fileTypes.FileTypeChooser/2560.0.2560.1413/0.0.2560.1400@0.0.2560.1400" timestamp="1598185844377" />
   </component>
 </project>
