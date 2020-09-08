@@ -1,5 +1,15 @@
 $(document).ready(function(){
   initScale();
+
+  var isScrolled = false;
+  setInterval(function (){
+    if($('.image-container .image').prop('ended') && !isScrolled){
+      $('html, body').animate({
+        scrollTop: $('.notice-container').offset().top
+      }, 700);
+      isScrolled = true;
+    }
+  })
 })
 
 function initScale()   {
@@ -27,6 +37,10 @@ function initScale()   {
 
      $('.thumbnail-image').css('margin-top', margins );
      $('.thumbnail-image').css('margin-bottom', margins );
+     $('.notice-container').css('height', dh);
+     $('.notice-container').css('margin-left', 30);
+     $('.notice-container').css('margin-right', 30);
+     $('.content-title').css('padding-top', 20);
 }
 
 window.onresize = function(){

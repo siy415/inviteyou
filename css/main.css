@@ -23,6 +23,21 @@ body{
   height: 100%;
 }
 
+.content-title{
+  font-family: "210 네모진 040";
+  src:url("font/210 네모진 040.ttf");
+  font-size: 2.5rem;
+  color: #F78c80;
+  line-height: 10px;
+}
+
+.contents{
+  font-family: "210 네모진 030";
+  src:url("font/210 네모진 030.ttf");
+  font-size: 1.5rem;
+  color: #ffefa3;
+}
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
