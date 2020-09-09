@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="810ea263-319c-429f-b8d2-b05feac5f429" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/210_nemo_030_subset.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/font/210_nemo_030_subset.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/210_nemo_040_subset.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/font/210_nemo_040_subset.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/210_nemo_050_subset.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/font/210_nemo_050_subset.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="810ea263-319c-429f-b8d2-b05feac5f429" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +79,7 @@
       <workItem from="1598960811441" duration="44000" />
       <workItem from="1599490893303" duration="746000" />
       <workItem from="1599575311594" duration="7414000" />
-      <workItem from="1599664897297" duration="2157000" />
+      <workItem from="1599664897297" duration="2299000" />
     </task>
     <servers />
   </component>
