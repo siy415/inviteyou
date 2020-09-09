@@ -20,19 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="810ea263-319c-429f-b8d2-b05feac5f429" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/font/210_nemo_030_subset.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/210_nemo_040_subset.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/210_nemo_050_subset.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/200909_house_party_movie_final.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/210_nemo_010.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/210_nemo_020.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/210_nemo_030.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/210_nemo_040.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/210_nemo_050.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/210_nemo_030_subset.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/font/210_nemo_030_subset.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/210_nemo_040_subset.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/font/210_nemo_040_subset.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/210_nemo_050_subset.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/font/210_nemo_050_subset.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +51,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/font" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -74,6 +66,7 @@
       <recent name="D:\Work\Side_Project\Invitation\font" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\Side_Project\Invitation\font" />
       <recent name="D:\Work\Side_Project\Invitation\img" />
     </key>
   </component>
@@ -92,7 +85,7 @@
       <workItem from="1598960811441" duration="44000" />
       <workItem from="1599490893303" duration="746000" />
       <workItem from="1599575311594" duration="7414000" />
-      <workItem from="1599664897297" duration="1588000" />
+      <workItem from="1599664897297" duration="2157000" />
     </task>
     <servers />
   </component>
@@ -117,9 +110,9 @@
     </state>
     <state x="4810" y="493" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/3840.-7.2560.1400@3840.-7.2560.1400" timestamp="1599583840457" />
     <state x="970" y="500" key="#com.intellij.fileTypes.FileTypeChooser/2560.0.2560.1413/0.0.2560.1400@0.0.2560.1400" timestamp="1598185844377" />
-    <state x="1011" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599666115799">
+    <state x="1011" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599667568690">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1011" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/3840.-7.2560.1400@0.0.2560.1400" timestamp="1599666115799" />
+    <state x="1011" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/3840.-7.2560.1400@0.0.2560.1400" timestamp="1599667568690" />
   </component>
 </project>
