@@ -15,8 +15,6 @@
   <meta property="og:image:width" content="img/thumbnail.png">
   <meta property="og:image:height" content="img/thumbnail.png">
   <link rel="shortcut icon" href="img/favicon_2.png">
-
-  <link rel="manifest" href="site.webmanifest">
   <!-- Place favicon.ico in the root directory -->
 
   <link rel="stylesheet" href="css/normalize.css">
@@ -32,8 +30,8 @@
 <body>
   <div class="image-container" align="middle">
     <div class="invitation-movie" style="top: 0; left: 0;">
-      <video muted onclick="this.play()" poster="img/200821_house_party_start.png" class="image">
-        <source src="img/200907_house_party_movie.mp4" type="video/mp4">
+      <video muted autoplay poster="img/200821_house_party_start.png" class="image"> <!-- onclick="this.play()" -->
+        <source src="img/200909_house_party_movie_final.mp4" type="video/mp4">
       </video>
     </div>
     <div class="thumbnail-image">
@@ -42,25 +40,20 @@
   </div>
   <div class="notice-container" align="left">
     <div class="contents-box">
-      <h2 class="content-title">Contents</h2>
+      <h2 class="content-title" style="line-height: 0px;">Contents</h2>
+      <p class="contents" style="font-size: 0.3rem">▶주최측의 사정에 변동될 수 있습니다(사실 마음대로임)</p>
       <p class="contents">1. 천하제일 요리대회</p>
       <p class="contents">2. 술과 함께하는 근황 토크</p>
-      <p class="contents">3. 정신력으로 보드게임(aka. AMONG US)</p>
-      <p class="contents">4. 살아남아 있다면 당신은 승리자</p>
-      <p class="contents">5. 잡시다...</p>
+      <p class="contents">3. 왁짜지껄 AMONG US</p>
+      <p class="contents">4. 술술술술술술술</p>
+      <p class="contents">5. 잘꺼면 집 가는걸로</p>
     </div>
     <div class="map-box" style="margin-top: 5px;">
-      <h2 class="content-title">Map</h2>
+      <h2 class="content-title" style="line-height: 0px;">Map</h2>
+      <p class="contents" style="font-size: 0.3rem">경기도 수원시 매여울로67번길 42 라온빌2 502호</p>
       <img src="img/map.png" class="map-image" align="middle">
     </div>
   </div>
-
-  <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
-  <script>
-    window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
-    ga('create', 'UA-XXXXX-Y', 'auto'); ga('set', 'anonymizeIp', true); ga('set', 'transport', 'beacon'); ga('send', 'pageview')
-  </script>
-  <script src="https://www.google-analytics.com/analytics.js" async></script>
 </body>
 
 <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>

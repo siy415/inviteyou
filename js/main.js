@@ -1,8 +1,6 @@
 $(document).ready(function(){
   initScale();
 
-  alert("초대장을 클릭해주셔서 감사합니다.\n\n터치해 주세요!")
-
   var isScrolled = false;
   setInterval(function (){
     if($('.image-container .image').prop('ended') && !isScrolled){

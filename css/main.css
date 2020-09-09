@@ -24,13 +24,13 @@ body{
 }
 
 @font-face {
-  src:url("../font/210_nemo_040.ttf");
+  src:url("../font/210_nemo_040_subset.ttf");
   font-family: "210_nemo_040";
 }
 
 @font-face {
-  src:url("../font/210_nemo_030.ttf");
-  font-family: "210_네모진_030";
+  src:url("../font/210_nemo_030_subset.ttf");
+  font-family: "210_nemo_030";
 }
 
 .content-title{
@@ -41,7 +41,7 @@ body{
 }
 
 .contents{
-  font-family: "210_네모진_030";
+  font-family: "210_nemo_030";
   font-size: 1.5rem;
   color: #ffefa3;
 }
